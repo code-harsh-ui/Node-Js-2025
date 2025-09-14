@@ -1,4 +1,4 @@
-## [Pages and Components Created and Modified in this branch](./Project_Structure_Overview.md)
+## Pages and Components Created and Modified in this branch
 
 ### Modified:
 
@@ -8,5 +8,5 @@
 
 - **root**
 
-  - [CLI.md](../CLI.md))
+  - [CLI.md](../CLI.md)
   - [REPL.md](../REPL.md)
