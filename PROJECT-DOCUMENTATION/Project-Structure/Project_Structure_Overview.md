@@ -1,4 +1,4 @@
-## [Pages and Components Created and Modified in this branch](/PROJECT-DOCUMENTATION/Project-Structure/Project_Structure_Overview.md)
+## Pages and Components Created and Modified in this branch
 
 ### Modified:
 
@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **root**
+- **PROJECT-DOCUMENTATION/**
 
   - [window-document.md](../window-document.md)
