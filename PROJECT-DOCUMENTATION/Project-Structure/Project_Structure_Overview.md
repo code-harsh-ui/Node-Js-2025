@@ -8,4 +8,5 @@
 
 - **/modules/**
 
-  - [modules.md](../modules/modules.md)
+  - [app.js](../../modules/app.js)
+  - [math.js](../modules/math.md)
