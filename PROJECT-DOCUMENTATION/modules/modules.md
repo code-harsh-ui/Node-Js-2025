@@ -22,7 +22,7 @@ They help you:
 
 Using Node.js’ built-in fs (file system) module.
 
-#### -> Code (`app.js`);
+#### <p style="color:lightgreen; font-size: 1.5rem;"> Code in [app.js](/modules/app.js)
 
 ```js
 const fs = require("fs");
@@ -43,7 +43,7 @@ Hello from Node.js!
 
 #### <p style="font-size:1.7rem;">2. User-defined Module Example</p>
 
-#### -> Code (`math.js`);
+#### <p style="color:lightgreen; font-size: 1.5rem;"> Code in [math.js](/modules/math.js)
 
 ```js
 function add(a, b) {
@@ -57,7 +57,7 @@ function multiply(a, b) {
 module.exports = { add, multiply }; // exporting multiple functions
 ```
 
-#### -> File (`app.js`);
+#### <p style="color:lightgreen; font-size: 1.5rem;"> File in [app.js](/modules/app.js)
 
 ```js
 const math = require("./math"); // import user module
@@ -81,7 +81,7 @@ console.log(math.multiply(3, 4));
 npm install chalk
 ```
 
-#### -> Code (`app.js`);
+#### <p style="color:lightgreen; font-size: 1.5rem;"> Code in [app.js](/modules/app.js)
 
 ```js
 const chalk = require("chalk");
