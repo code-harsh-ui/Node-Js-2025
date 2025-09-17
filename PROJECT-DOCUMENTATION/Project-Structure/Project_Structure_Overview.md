@@ -8,4 +8,4 @@
 
 - **/pathModule/**
 
-  - [path_module.js](../pathModule/path_module.md)
+  - [osModule.js](../osModule/osModule.md)
