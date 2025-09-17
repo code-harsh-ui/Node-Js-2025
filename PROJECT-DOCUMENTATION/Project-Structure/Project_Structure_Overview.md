@@ -6,7 +6,6 @@
 
 ### Created:
 
-- **/modules/**
+- **/pathModule/**
 
-  - [app.js](../../modules/app.js)
-  - [math.js](../modules/math.md)
+  - [path_module.js](../pathModule/path_module.md)
