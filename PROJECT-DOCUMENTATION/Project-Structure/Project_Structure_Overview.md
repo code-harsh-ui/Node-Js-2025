@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/pathModule/**
+- **/fsModule/**
 
-  - [osModule.js](../osModule/osModule.md)
+  - [fsModule.js](../fsModule/fsModule.md)
