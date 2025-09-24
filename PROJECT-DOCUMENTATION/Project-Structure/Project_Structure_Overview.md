@@ -8,4 +8,4 @@
 
 - **/fsModuleAsync/**
 
-  - [fsModuleAsyncPromises.js](../fsModuleAsyncPromises/fsModuleAsyncPromises.md)
+  - [fsModuleAsyncAwaitTryCatch.js](../fsModuleAsyncAwaitTryCatch/fsModuleAsyncAwaitTryCatch.md)
