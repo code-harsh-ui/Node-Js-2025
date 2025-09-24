@@ -90,6 +90,12 @@ const rename = fs.renameSync(filePath, newFilePath);
 console.log(rename); // undefined
 ```
 
+**Explanation:**
+
+- `fs.renameSync` changes the name (or moves) a file.
+
+- Requires both old path and new path.
+
 ### <p style="color:coral">5. Deleting a File</p>
 
 ```js
