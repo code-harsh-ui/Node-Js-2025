@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/fsModule/**
+- **/fsModuleAsync/**
 
-  - [fsModule.js](../fsModule/fsModule.md)
+  - [fsModuleAsync.js](../fsModuleAsync/fsModuleAsync.md)
