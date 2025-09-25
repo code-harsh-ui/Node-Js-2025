@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/fsModuleAsync/**
+- **/cryptoModule/**
 
-  - [fsModuleAsyncAwaitTryCatch.js](../fsModuleAsyncAwaitTryCatch/fsModuleAsyncAwaitTryCatch.md)
+  - [cryptoModule.js](../cryptoModule/cryptoModule.md)
