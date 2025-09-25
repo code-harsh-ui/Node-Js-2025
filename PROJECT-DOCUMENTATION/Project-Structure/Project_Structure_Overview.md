@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/fsModuleAsync/**
+- **/fsModuleAsyncAwaitTryCatch/**
 
   - [fsModuleAsyncAwaitTryCatch.js](../fsModuleAsyncAwaitTryCatch/fsModuleAsyncAwaitTryCatch.md)
