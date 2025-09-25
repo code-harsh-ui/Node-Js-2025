@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/cryptoModule/**
+- **/EventEmitters/**
 
-  - [cryptoModule.js](../cryptoModule/cryptoModule.md)
+  - [EventEmitters.js](../EventEmitters/EventEmitters.md)
