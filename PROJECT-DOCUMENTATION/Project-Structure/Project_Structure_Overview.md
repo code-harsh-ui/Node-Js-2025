@@ -8,4 +8,5 @@
 
 - **/EventEmitters/**
 
-  - [EventEmitters.js](../EventEmitters/EventEmitters.md)
+  - [EventEmittersChal.js](../EventEmitters/EventEmittersChal.md)
+  - [EventEmittersChal2.js](../EventEmitters/EventEmittersChal2.md)
