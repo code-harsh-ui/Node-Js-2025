@@ -9,3 +9,4 @@
 - **/webServer/**
 
   - [webServer.js](../webServer/server.md)
+  - [autoRestartNodeInBuild.js](../autoRestartNodeInBuild.md)
