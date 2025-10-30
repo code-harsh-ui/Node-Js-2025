@@ -6,11 +6,6 @@
 
 ### Created:
 
-- **/esModule/**
+- **/miniProject-To-do-app/**
 
-  - [esModule.js](../esModule/esModule.md)
-  - [arithmetic.js](../../esModule/arithmetic.js)
-
-- **root**/
-
-  - [package.json](../packageJson.md))
+  - [esModule.js](../miniProject-To-do-app/app.md)
