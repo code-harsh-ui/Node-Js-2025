@@ -1,4 +1,4 @@
-# [app.js](../../miniProject-To-do-app/app.js) Documentation
+# [app.js](../../../miniProjects/To-do-app/app.js) Documentation
 
 ## <p style="color:deepskyblue;">What is happening here</p>
 

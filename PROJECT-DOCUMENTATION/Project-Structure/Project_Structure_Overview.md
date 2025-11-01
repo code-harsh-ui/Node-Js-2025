@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/miniProject-To-do-app/**
+- **/miniProject/**
 
-  - [esModule.js](../miniProject-To-do-app/app.md)
+  - [To-do-app](../miniProject/To-do-app/app.md)
