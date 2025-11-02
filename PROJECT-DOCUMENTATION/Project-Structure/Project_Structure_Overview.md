@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/miniProject/**
+- **/miniProject/To-do-app**
 
   - [To-do-app](../miniProject/To-do-app/app.md)
