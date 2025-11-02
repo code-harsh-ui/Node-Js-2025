@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/miniProject/FileCreator**
+- **/miniProject/RandomJokeGenerator**
 
-  - [fileCreator](../miniProject/FileCreator/fileCreator.md)
+  - [randomJokeGenerator](../miniProject/RandomJokeGenerator/randomJokeGenerator.md)
