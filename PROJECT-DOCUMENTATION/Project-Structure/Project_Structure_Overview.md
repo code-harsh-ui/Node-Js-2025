@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/miniProject/RandomJokeGenerator**
+- **/miniProject/currencyConverter**
 
-  - [randomJokeGenerator](../miniProject/RandomJokeGenerator/randomJokeGenerator.md)
+  - [currencyConverter](../miniProject/currencyConverter/currencyConverter.md)
