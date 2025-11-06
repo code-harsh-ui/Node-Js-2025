@@ -6,6 +6,6 @@
 
 ### Created:
 
-- **/miniProject/currencyConverter**
+- **/miniProject/weatherApp**
 
-  - [currencyConverter](../miniProject/currencyConverter/currencyConverter.md)
+  - [weatherApp](../miniProject/weatherApp/weatherApp.md)
